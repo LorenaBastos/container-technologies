@@ -2,7 +2,7 @@
     "containerDefinitions": [
         {
             "name": "ci-cd-app",
-            "image": "LorenaBastos/ci-cd-app:v1.0.0",
+            "image": "lorenabastos345/ci-cd-app:v1.0.0",
             "cpu": 0,
             "portMappings": [
                 {
